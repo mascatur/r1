@@ -1,0 +1,12 @@
+/*
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Powered-By: Mudah
+Strict-Transport-Security:max-age=63072000; includeSubDomains
+Content-Security-Policy: default-src 'none'; base-uri 'self'; frame-ancestors 'none';
+Referrer-Policy: no-referrer
+Cache-Control: public, max-age=3600
+Server: Nusa
+ServerSignature: off
+Feature-Policy: geolocation self
